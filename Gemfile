@@ -6,7 +6,7 @@ source "https://rubygems.org"
 gem 'rake'
 gem 'sinatra'
 gem 'sinatra-contrib'
-gem 'activerecord', '5.2.3'
+gem 'activerecord', '6.1.7.1'
 gem 'sinatra-activerecord'
 gem 'nokogiri'
 gem 'cloudinary'
